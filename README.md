@@ -5,3 +5,6 @@
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dracular)](https://github.com/ERRrOR404)
+
+> [Github](https://github.com/ERRrOR404/)
+> [Youtube](https://www.youtube.com/channel/UCnyAwLg9s0Wn35H5pPoK-rg)
