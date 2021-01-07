@@ -9,3 +9,4 @@
 
 - [Github](https://github.com/ERRrOR404/)   
 - [Youtube](https://www.youtube.com/channel/UCnyAwLg9s0Wn35H5pPoK-rg)
+- [Ruok Studio](https://discord.gg/CXykqM8)
