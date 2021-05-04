@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dracular)](https://github.com/ERRrOR404)
 
-- Discord : ERRrOR#1234
+- Discord : ERRrOR#0634
