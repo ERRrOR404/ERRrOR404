@@ -10,6 +10,7 @@
 
 ## IDE that I use
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-bf8df5?style=for-the-badge&logo=visual-studio&logoColor=fff)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-3aa8f3?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
    
