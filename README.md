@@ -9,7 +9,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=unity&logoColor=fff)
 
 ## IDE that I use
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-9d70d8?style=for-the-badge&logo=visual-studio&logoColor=fff)
+![VisualStudio](https://img.shields.io/badge/-Visual Studio-9d70d8?style=for-the-badge&logo=visual-studio&logoColor=fff)
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
    
