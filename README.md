@@ -4,8 +4,8 @@
 - [ImageRecognition](https://github.com/ERRrOR404/ImageRecognition "Project Link")
 - [ConsoleClock](https://github.com/ERRrOR404/ConsoleClock "Project Link")
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dracular)](https://github.com/ERRrOR404)
+![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dark)
 
 - Discord : [ERRrOR#0634](https://discord.com/users/476152575385927711)
