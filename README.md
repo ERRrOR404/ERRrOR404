@@ -8,7 +8,7 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=unity&logoColor=fff)
 ---
-![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&layout=none&theme=dark)
+![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=none&theme=dark)
 ---
