@@ -1,8 +1,8 @@
-### 환영합니다 👋
-## 저의 대표 프로젝트들입니다!
-- [Discord AssacCream Bot](https://discord.com/oauth2/authorize?client_id=756328559827746847&permissions=8&scope=bot "Invited Link")
-- [ImageRecognition](https://github.com/ERRrOR404/ImageRecognition "Project Link")
-- [ConsoleClock](https://github.com/ERRrOR404/ConsoleClock "Project Link")
+### Welcome to my profile! 👋
+
+## My skills
+![Csharp](https://img.shields.io/badge/-Csharp-8b61c9?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-8b61c9?style=for-the-badge&logo=c-sharp&logoColor=fff)
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
    
