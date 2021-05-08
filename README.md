@@ -6,6 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e3d41e?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0099dd?style=for-the-badge&logo=kotlin&logoColor=fff)
 
+![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=uninty&logoColor=fff)
+
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=none&theme=dark)
