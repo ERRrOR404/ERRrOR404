@@ -3,7 +3,7 @@
 ## My skills
 ![Csharp](https://img.shields.io/badge/-Csharp-9d70d8?style=for-the-badge&logo=c-sharp&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-ec8032?style=for-the-badge&logo=java&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-d8c514?style=for-the-badge&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e3d41e?style=for-the-badge&logo=javascript&logoColor=fff)
 
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
    
