@@ -15,3 +15,4 @@
 ---
 ### Contacts
 - Discord : [ERRrOR#0634](https://discord.com/users/476152575385927711)
+- ReadCV : [ERRrOR](https://read.cv/error)
