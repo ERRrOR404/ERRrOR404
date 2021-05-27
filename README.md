@@ -6,8 +6,7 @@ Student who wants to be developer
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dark)
 ### Solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=errror)](https://solved.ac/errror)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=errror)](https://solved.ac/errror)
 ---
 ### Skills
 #### Languages
