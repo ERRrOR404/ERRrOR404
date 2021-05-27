@@ -15,7 +15,7 @@ Student who wants to be developer
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0099dd?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00acd7?style=for-the-badge&logo=go&logoColor=fff)
 #### Programs
-![VS](https://img.shields.io/badge/-VS-a878de?style=for-the-badge&logo=visualstudio&logoColor=fff)
+![VS](https://img.shields.io/badge/-VS-a878de?style=for-the-badge&logo=vsc&logoColor=fff)
 ![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=unity&logoColor=fff)
 
 ### Contacts
