@@ -18,6 +18,7 @@ Student who wants to be developer
 ![Go](https://img.shields.io/badge/-Go-00acd7?style=for-the-badge&logo=go&logoColor=fff)
 #### Programs
 ![VS](https://img.shields.io/badge/-VS-a878de?style=for-the-badge&logo=visual-studio&logoColor=fff)
+![VSC](https://img.shields.io/badge/-VSC-31a0e8?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=unity&logoColor=fff)
 
 ### Contacts
