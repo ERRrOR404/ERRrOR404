@@ -5,6 +5,9 @@ Student who wants to be developer
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dark)
+### Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=errror)](https://solved.ac/errror)
 ---
 ### Skills
 #### Languages
@@ -15,7 +18,7 @@ Student who wants to be developer
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0099dd?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00acd7?style=for-the-badge&logo=go&logoColor=fff)
 #### Programs
-![VS](https://img.shields.io/badge/-VS-a878de?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![VS](https://img.shields.io/badge/-VS-a878de?style=for-the-badge&logo=visual-studio&logoColor=fff)
 ![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=unity&logoColor=fff)
 
 ### Contacts
