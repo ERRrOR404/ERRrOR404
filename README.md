@@ -19,6 +19,8 @@ Student who wants to be developer
 #### Programs
 ![VS](https://img.shields.io/badge/-VS-a878de?style=for-the-badge&logo=visual-studio&logoColor=fff)
 ![VSC](https://img.shields.io/badge/-VSC-31a0e8?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-e03d6a?style=for-the-badge&logo=intellij&logoColor=fff)
+![VSC](https://img.shields.io/badge/-VSC-31a0e8?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=unity&logoColor=fff)
 
 ### Contacts
