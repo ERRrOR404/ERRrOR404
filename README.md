@@ -3,11 +3,10 @@
   
   ```07 Student Who Wants To Be Programmer :D```
 </div>
-<h2 align="center">Github Stat</h2>
+<h2 align="center">Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark"/></a>&nbsp 
 </div>
-<h2 align="center">Top Languages</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dark"/></a>&nbsp 
 </div>
