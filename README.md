@@ -1,4 +1,4 @@
-## Welcome to my profile! 👋
+# Welcome to my profile! 👋
 ### Github Stat
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark)
 ### Top Languages
