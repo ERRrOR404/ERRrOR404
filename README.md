@@ -1,7 +1,7 @@
 <div align=center>
   <h1>Welcome to my profile! 👋</h1>
   
-  #### ```07 Student Who Wants To Be Programmer :D```
+  #### ```07 Student Who Wants To Be Programmer```
 </div>
 <h2 align="center">Stats</h2>
 <div align="center">
