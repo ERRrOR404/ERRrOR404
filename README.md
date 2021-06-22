@@ -6,9 +6,7 @@
 <h2 align="center">Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark"/></a>&nbsp 
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dark"/></a>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dark"/></a>
 </div>
 <h2 align="center">Skills</h2>
 <h2 align="center">Languages</h2>
