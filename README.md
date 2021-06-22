@@ -18,7 +18,7 @@
 ![VS](https://img.shields.io/badge/-VS-a878de?style=for-the-badge&logo=visual-studio&logoColor=fff)
 ![VSC](https://img.shields.io/badge/-VSC-31a0e8?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-e03d6a?style=for-the-badge&logo=intelli-j&logoColor=fff)
-![WebStorm](https://img.shields.io/badge/-WebStorm-06c7d3?style=for-the-badge&logo=web-storm&logoColor=fff)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-06c7d3?style=for-the-badge&logo=android-studiom&logoColor=fff)
 
 ![Unity](https://img.shields.io/badge/-Unity-040707?style=for-the-badge&logo=unity&logoColor=fff)
 
