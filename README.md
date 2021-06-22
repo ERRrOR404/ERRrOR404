@@ -1,6 +1,8 @@
-<h1 align=center>
-  <b>Welcome to my profile! 👋</b>
-</h1>
+<div align=center>
+  <h1>Welcome to my profile! 👋</h1>
+  
+  ```07 Student Who Wants To Be Programmer :D```
+</div>
 <h2 align="center">Github Stat</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ERRrOR404&theme=dark"/></a>&nbsp 
