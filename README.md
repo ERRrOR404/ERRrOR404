@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERRrOR404&layout=compact&theme=dark"/></a>
 </div>
 <h2 align="center">Skills</h2>
-<h2 align="center">Languages</h2>
 <div align="center">
   
 ![Csharp](https://img.shields.io/badge/-Csharp-9d70d8?style=for-the-badge&logo=c-sharp&logoColor=fff)
