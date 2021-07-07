@@ -1,12 +1,12 @@
 <div align=center>
   <h1>Welcome to my profile! 👋</h1>
   
-  ### **```07 Student Who Wants To Be Programmer```**
+  ### A Student Developer Interested In Programming And Design.
 </div>
 <h2 align="center">Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taggedev&theme=dark"/></a>&nbsp 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taggedev&layout=compact&theme=dark"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=unsignd&theme=dark"/></a>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsignd&layout=compact&theme=dark"/></a>
 </div>
 <h2 align="center">Skills</h2>
 <div align="center">
@@ -32,6 +32,6 @@
 <div align="center">
 <b>
   
-[Discord](https://discord.com/users/476152575385927711)&nbsp;&nbsp;&nbsp;[ReadCV](https://read.cv/taggedev)
+[Discord](https://discord.com/users/476152575385927711)&nbsp;&nbsp;&nbsp;[ReadCV](https://read.cv/unsignd)
 </b>
 </div>
