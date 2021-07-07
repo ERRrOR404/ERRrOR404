@@ -5,8 +5,8 @@
 </div>
 <h2 align="center">Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnoned&theme=dark"/></a>&nbsp 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnoned&layout=compact&theme=dark"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=taggedev&theme=dark"/></a>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taggedev&layout=compact&theme=dark"/></a>
 </div>
 <h2 align="center">Skills</h2>
 <div align="center">
