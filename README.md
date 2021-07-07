@@ -32,6 +32,6 @@
 <div align="center">
 <b>
   
-[Discord](https://discord.com/users/476152575385927711)&nbsp;&nbsp;&nbsp;[ReadCV](https://read.cv/unnamed)
+[Discord](https://discord.com/users/476152575385927711)&nbsp;&nbsp;&nbsp;[ReadCV](https://read.cv/taggedev)
 </b>
 </div>
